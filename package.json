@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar-big",
+  "name": "react-agenda-calendar",
   "version": "1.0.0",
   "description": "Calendario para agenda",
   "author": "Sade Ferreira",
@@ -117,10 +117,8 @@
     "react-overlays": "^5.2.0",
     "uncontrollable": "^7.2.1"
   },
-  "bugs": {
-    "url": "https://github.com/jquense/react-big-calendar/issues"
-  },
-  "homepage": "https://github.com/jquense/react-big-calendar#readme",
+  
+  "homepage": "https://github.com/sadinho/agendaCalenda#readme",
   "directories": {
     "test": "test"
   }
